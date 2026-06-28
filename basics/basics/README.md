@@ -1,2 +1,2 @@
-# Basics Project
-These scripts practice fundamental navigation and file manipulation.
+# Holberton School Shell
+This repository contains all my shell scripting projects.
