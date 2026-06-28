@@ -1,2 +1,2 @@
-# Basics Project
-These scripts practice fundamental navigation and file manipulation.
+# Shell Basics
+This project contains scripts that practice basic terminal navigation, directory management, and file manipulation.
